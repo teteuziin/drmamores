@@ -1,0 +1,13 @@
+# Dependências e caches
+node_modules/
+.npm/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs e arquivos temporários
+*.log
+.vscode/
+.idea/
